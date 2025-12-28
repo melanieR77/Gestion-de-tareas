@@ -1,0 +1,133 @@
+body {body {
+
+  font-family: 'Segoe UI', sans-serif;  font-family: 'Segoe UI', sans-serif;
+
+  background: #f2f5ff;  background: #f2f5ff;
+
+  margin: 0;  margin: 0;
+
+  padding: 20px;  padding: 20px;
+
+}}
+
+
+
+.container {.container {
+
+  max-width: 900px;  max-width: 900px;
+
+  margin: auto;  margin: auto;
+
+  background: white;  background: white;
+
+  padding: 20px;  padding: 20px;
+
+  border-radius: 12px;  border-radius: 12px;
+
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+
+}}
+
+
+
+h1 {h1 {
+
+  text-align: center;  text-align: center;
+
+  color: #2b4eff;  color: #2b4eff;
+
+}}
+
+
+
+form {form {
+
+  display: flex;  display: flex;
+
+  gap: 10px;  gap: 10px;
+
+  justify-content: center;  justify-content: center;
+
+  margin-bottom: 20px;  margin-bottom: 20px;
+
+}}
+
+
+
+input {input {
+
+  padding: 10px;  padding: 10px;
+
+  border: 1px solid #ccc;  border: 1px solid #ccc;
+
+  border-radius: 6px;  border-radius: 6px;
+
+  flex: 1;  flex: 1;
+
+}}
+
+
+
+button {button {
+
+  padding: 10px 15px;  padding: 10px 15px;
+
+  background-color: #2b4eff;  background-color: #2b4eff;
+
+  color: white;  color: white;
+
+  border: none;  border: none;
+
+  border-radius: 6px;  border-radius: 6px;
+
+  cursor: pointer;  cursor: pointer;
+
+}}
+
+
+
+button:hover {button:hover {
+
+  background-color: #1e36cc;  background-color: #1e36cc;
+
+}}
+
+
+
+table {table {
+
+  width: 100%;  width: 100%;
+
+  border-collapse: collapse;  border-collapse: collapse;
+
+}}
+
+
+
+th, td {th, td {
+
+  border: 1px solid #ddd;  border: 1px solid #ddd;
+
+  padding: 10px;  padding: 10px;
+
+  text-align: center;  text-align: center;
+
+}}
+
+
+
+th {th {
+
+  background-color: #e6e9ff;  background-color: #e6e9ff;
+
+}}
+
+
+
+select {select {
+
+  padding: 5px;  padding: 5px;
+
+  border-radius: 6px;  border-radius: 6px;
+
+}}
